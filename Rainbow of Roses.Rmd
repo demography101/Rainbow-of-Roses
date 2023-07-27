@@ -29,7 +29,6 @@ red = "http://clipart-library.com/images_k/rose-clipart-transparent-background/r
 pink <- "http://clipart-library.com/images_k/pink-flowers-transparent-background/pink-flowers-transparent-background-17.png" 
 orange <- "http://clipart-library.com/images_k/orange-flower-transparent/orange-flower-transparent-21.png"
 yellow <- "http://clipart-library.com/new_gallery/130-1307791_free-download-garden-roses.png"
-green <- " "
 blue <- "http://clipart-library.com/new_gallery/586306_blue-roses-png.png"
 purple <- "http://clipart-library.com/images_k/purple-flower-transparent-background/purple-flower-transparent-background-6.png"
 
